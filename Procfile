@@ -1,1 +1,1 @@
-web:    java $JAVA_OPTS -cp target/classes:target/dependency/* com.haulmont.testtask.MainUI
+web:    java $JAVA_OPTS -cp target/classes:target/dependency/* com.haulmont.testtask.Launcher
